@@ -1,0 +1,19 @@
+{
+    "2024": [
+      { "mes": "Enero", "ventas": 5000 },
+      { "mes": "Febrero", "ventas": 4500 },
+      { "mes": "Marzo", "ventas": 6000 },
+      { "mes": "Abril", "ventas": 5500 },
+      { "mes": "Mayo", "ventas": 4800 },
+      { "mes": "Junio", "ventas": 5200 }
+    ],
+    "2025": [
+      { "mes": "Enero", "ventas": 6000 },
+      { "mes": "Febrero", "ventas": 5900 },
+      { "mes": "Marzo", "ventas": 6300 },
+      { "mes": "Abril", "ventas": 6500 },
+      { "mes": "Mayo", "ventas": 6700 },
+      { "mes": "Junio", "ventas": 7200 }
+    ]
+  }
+  

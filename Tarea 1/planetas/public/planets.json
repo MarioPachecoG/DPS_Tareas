@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Mercurio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury_in_color_-_Prockter07_centered.jpg/800px-Mercury_in_color_-_Prockter07_centered.jpg",
+      "mass": "3.30 × 10^23 kg",
+      "distance": "57.9 millones km",
+      "temperature": "167°C"
+    },
+    {
+      "name": "Venus",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Venus_2_Approach_Image.jpg/800px-Venus_2_Approach_Image.jpg",
+      "mass": "4.87 × 10^24 kg",
+      "distance": "108.2 millones km",
+      "temperature": "464°C"
+    },
+    {
+      "name": "Tierra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/800px-The_Earth_seen_from_Apollo_17.jpg",
+      "mass": "5.97 × 10^24 kg",
+      "distance": "149.6 millones km",
+      "temperature": "15°C"
+    },
+    {
+      "name": "Marte",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/800px-OSIRIS_Mars_true_color.jpg",
+      "mass": "6.42 × 10^23 kg",
+      "distance": "227.9 millones km",
+      "temperature": "-65°C"
+    },
+    {
+      "name": "Júpiter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jupiter_in_true_color.jpg/800px-Jupiter_in_true_color.jpg",
+      "mass": "1.90 × 10^27 kg",
+      "distance": "778.5 millones km",
+      "temperature": "-110°C"
+    },
+    {
+      "name": "Saturno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Saturn_during_Equinox.jpg/1920px-Saturn_during_Equinox.jpg",
+      "mass": "5.68 × 10^26 kg",
+      "distance": "1.4 mil millones km",
+      "temperature": "-140°C"
+    },
+    {
+      "name": "Urano",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Uranus_Voyager2_color_calibrated.png/800px-Uranus_Voyager2_color_calibrated.png",
+      "mass": "8.68 × 10^25 kg",
+      "distance": "2.9 mil millones km",
+      "temperature": "-195°C"
+    },
+    {
+      "name": "Neptuno",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/800px-Neptune_Voyager2_color_calibrated.png",
+      "mass": "1.02 × 10^26 kg",
+      "distance": "4.5 mil millones km",
+      "temperature": "-200°C"
+    }
+  ]
+  
